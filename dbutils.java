@@ -1,3 +1,3 @@
-updating file here fir git reset
+updating file here
 hello guys
 git commands are very very important
